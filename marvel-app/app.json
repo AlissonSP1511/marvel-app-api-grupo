@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "marvel-app",
+    "slug": "snack-f0d3caa5-26e7-47b0-bcc6-9639ee3ceeb3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Aplicativo para exibir os personagens da Marvel acessando a API Oficial da Marvel, desenvolvido em React Native."
+  }
+}
